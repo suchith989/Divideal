@@ -6,7 +6,7 @@ At the end we run Ford-fulkerson or a simple greedy approach to reduce the no. o
 
 Input for CLI:
 
-<EXPENSE/SHOW> <Type of split> <Payee> <Amount> <No.of users> <Users involved> <Amounts/Values>
+<EXPENSE/SHOW> (Type of splits) (Payee Amount) (No.of users) (Users involved) <Amounts/Values>
   
 We can make 5 different kinds of splits 
   * EQUAL
